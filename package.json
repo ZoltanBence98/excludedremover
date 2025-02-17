@@ -1,0 +1,16 @@
+{
+  "name": "Excluded",
+  "version": "1.0.0",
+  "description": "dynamic status and heartbeat",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "ZoltanBence", 
+  "license": "EXD", 
+  "dependencies": {
+    "discord.js": "^14.16.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.20.0"
+  }
+}
